@@ -4,7 +4,10 @@
       "Bash(npx vitest run src/components/chat/__tests__/ToolInvocationBadge.test.tsx)",
       "Bash(npx vitest run src/lib/__tests__/auth.test.ts)",
       "Bash(npm audit:*)",
-      "Bash(npm info:*)"
+      "Bash(npm info:*)",
+      "mcp__playwright__*",
+      "Bash(start:*)",
+      "Bash(npx:*)"
     ]
   }
 }
